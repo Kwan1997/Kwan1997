@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping.
 - 🌱 I’m currently learning in Xiamen Univ.
 - 💞️ I’m looking to collaborate on graph-based data mining, recommendation systems and tensor decomposition based applications.
-- 📫 For any question about my released codes, please send an e-mail to 23220191151283@stu.xmu.edu.cn.
+- 📫 For any question about my released codes, please initiate an issue under corresponding repository.
 
 <!---
 Kwan1997/Kwan1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
